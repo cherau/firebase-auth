@@ -1,2 +1,2 @@
 # firebase-auth
-Created with CodeSandbox
+Boiler-plate code for firebase authorization
